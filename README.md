@@ -1,14 +1,17 @@
-# Projeto tela inicial do Instagram
-
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+# Projeto Tela Inicial do Instagram
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://github.com/joneskleber/dio-project-instagram/blob/master/img/html.png" />
 </p>
 
+## Repositório do Projeto
+
 https://github.com/joneskleber/dio-project-instagram.git
 
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto construido durante o bootcamp [HTML Web Developer na Digital Innovation One](https://web.digitalinnovation.one/track/html-web-developer/)
+
+HTML Web Developer
+Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
 
 
 ## Como rodar o projeto?
