@@ -1,7 +1,7 @@
 # Projeto Tela Inicial do Instagram
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://github.com/joneskleber/dio-project-instagram/blob/master/img/html.png" />
+  <img alt="Logo do projeto" width="80%" src="https://github.com/joneskleber/dio-project-instagram/blob/master/img/telainstagram.png" />
 </p>
 
 ## Repositório do Projeto
